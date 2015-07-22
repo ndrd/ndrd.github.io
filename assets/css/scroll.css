@@ -1,0 +1,29 @@
+#intro { 
+    background: url(../img/test.jpg) 50% 0 fixed; 
+    height: auto;  
+    margin: 0 auto; 
+    height: 100%;
+    width: 100%; 
+    position: relative; 
+    padding: 100px 0;
+}
+
+/*#home { 
+    background: url(../img/test.jpg) 50% 0 fixed; 
+    height: auto;  
+    margin: 0 auto; 
+    height: 100%;
+    width: 100%; 
+    position: relative; 
+    padding: 200px 0;
+}
+#about { 
+    background: url(../img/test.jpg) 50% 0 fixed; 
+    height: auto;
+    margin: 0 auto; 
+    height: 100%;
+    width: 100%; 
+    position: relative; 
+    padding: 100px 0;
+    color: #fff;
+}*/
