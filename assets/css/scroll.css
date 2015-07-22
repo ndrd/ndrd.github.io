@@ -1,11 +1,12 @@
 #intro { 
-    background: url(../img/test.jpg) 50% 0 fixed; 
-    height: auto;  
-    margin: 0 auto; 
-    height: 100%;
-    width: 100%; 
-    position: relative; 
-    padding: 100px 0;
+opacity: 0.99;
+  background: url(../img/test.jpg) 50% 0 fixed;
+  height: auto;
+  margin: 0 auto;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  padding: 100px 0; 
 }
 
 /*#home { 

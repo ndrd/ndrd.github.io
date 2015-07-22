@@ -3,6 +3,13 @@
 * http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/
 */
 $(document).ready(function(){
+  $('#block').vide({
+     'mp4': 'video/ocean',
+     'webm': 'video/ocean',
+     'ogv': 'video/ocean',
+     'poster': 'video/ocean',
+   });
+
    $window = $(window);
  
    $('section[data-type="background"]').each(function(){
@@ -16,4 +23,7 @@ $(document).ready(function(){
         $scroll.css({ backgroundPosition: coords });    
       }); 
    });  
+
+
+
 }); 
